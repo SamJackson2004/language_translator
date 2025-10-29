@@ -31,4 +31,4 @@ if st.button("Translate"):
 
 # Footer
 st.markdown("---")
-st.markdown("**Developed by:** Sam Jackson S | **Cloud Provider:** GCP (PaaS via Streamlit Cloud)")
+st.markdown("**Developed by:** Sam Jackson S,Abika Blessy S  | **Cloud Provider:** GCP (PaaS via Streamlit Cloud)")
